@@ -96,7 +96,8 @@
 - Визначає, наскільки добре кожна точка знаходиться у своєму кластері порівняно з іншими.
 - Значення **Silhouette Score** близьке до 1 вказує на добре кластеризовані дані.
 
-![Figure 1](file:///C:/Users/yanam/Downloads/Figure_1.png)
+![Figure_1](https://github.com/user-attachments/assets/13aa8bc9-e5e3-461d-a988-4a29f86534fb)
+
 
 ### 6. **Підсумки**
 
